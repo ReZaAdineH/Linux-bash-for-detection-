@@ -1,1 +1,1 @@
-# Linux-bash-for-detection-
+# Linux-bash-for-detection
